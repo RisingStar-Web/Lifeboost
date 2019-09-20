@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="49e-Tb-3d3">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="49e-Tb-3d3">
     <device id="retina3_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -17,7 +17,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="URr-6k-fcb">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.69014215469360352" green="0.69022655487060547" blue="0.69011348485946655" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="tableCell" id="KzQ-oU-sIW" customClass="tableCell" customModule="Lifeboost" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="28" width="320" height="44"/>
@@ -51,8 +51,9 @@
                                             </connections>
                                         </button>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.59210997819900513" green="0.59218329191207886" blue="0.59208512306213379" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </tableViewCellContentView>
-                                <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.69014215469360352" green="0.69022655487060547" blue="0.69011348485946655" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <outlet property="cellButton" destination="Q5T-Xl-cIV" id="UUU-dX-Hso"/>
                                     <outlet property="cellImage" destination="lgt-7b-TnQ" id="kpA-eP-nkZ"/>
@@ -90,7 +91,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="28" id="Exj-6x-mJZ">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.62993597984313965" green="0.98145323991775513" blue="0.62658923864364624" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="tableCell" id="FMH-mK-545" customClass="tableCell" customModule="Lifeboost" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="28" width="320" height="44"/>
@@ -124,8 +125,9 @@
                                             </connections>
                                         </button>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.56441968679428101" green="0.8847774863243103" blue="0.56393164396286011" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </tableViewCellContentView>
-                                <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.62974494695663452" green="0.98524504899978638" blue="0.62657874822616577" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <outlet property="cellButton" destination="gwm-9t-ejc" id="pFy-Eu-6hL"/>
                                     <outlet property="cellImage" destination="ge4-AQ-PfT" id="lOi-jU-tVx"/>
@@ -163,7 +165,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" allowsSelectionDuringEditing="YES" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="28" id="SkT-2T-6Lt">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.21047121286392212" green="0.68635112047195435" blue="0.98921221494674683" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="tableCell" id="60H-Ew-mTE" customClass="tableCell" customModule="Lifeboost" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="28" width="320" height="44"/>
@@ -197,8 +199,9 @@
                                             </connections>
                                         </button>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.19043424725532532" green="0.61128050088882446" blue="0.88715702295303345" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </tableViewCellContentView>
-                                <color key="backgroundColor" red="0.96462148430000005" green="0.96475988629999998" blue="0.96459132430000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.21090307831764221" green="0.68268966674804688" blue="0.9892156720161438" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <outlet property="cellButton" destination="mPx-kv-QbK" id="TWa-ct-Ale"/>
                                     <outlet property="cellImage" destination="Tde-01-YsE" id="bXO-Om-hPg"/>
@@ -315,7 +318,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" allowsSelectionDuringEditing="YES" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="28" id="8lf-2R-x11">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.83622181415557861" green="0.77231746912002563" blue="0.36200302839279175" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="tableCell" id="1j6-fH-HcU" customClass="tableCell" customModule="Lifeboost" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="28" width="320" height="44"/>
@@ -349,8 +352,9 @@
                                             </connections>
                                         </button>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.76174396276473999" green="0.69861131906509399" blue="0.32298159599304199" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </tableViewCellContentView>
-                                <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.848166823387146" green="0.77629178762435913" blue="0.35795688629150391" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <outlet property="cellButton" destination="dX6-vP-L5X" id="xPS-R4-eNz"/>
                                     <outlet property="cellImage" destination="KYD-RL-Cdh" id="9Qs-o7-WOl"/>
@@ -392,7 +396,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="28" id="3dU-zm-s0i">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.87075686454772949" green="0.46417152881622314" blue="0.91025584936141968" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="tableCell" id="HPG-1g-c5H" customClass="tableCell" customModule="Lifeboost" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="28" width="320" height="44"/>
@@ -426,8 +430,9 @@
                                             </connections>
                                         </button>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.78370481729507446" green="0.41666632890701294" blue="0.81608688831329346" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </tableViewCellContentView>
-                                <color key="backgroundColor" red="0.96462148427963257" green="0.96475988626480103" blue="0.96459132432937622" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.87075686454772949" green="0.46417152881622314" blue="0.91025584936141968" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <outlet property="cellButton" destination="DnC-Xy-Vhv" id="mZd-83-7dz"/>
                                     <outlet property="cellImage" destination="W4q-bR-ghn" id="KDG-j5-h80"/>
@@ -468,6 +473,7 @@
                         <rect key="frame" x="0.0" y="975" width="768" height="49"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="barTintColor" red="0.91764705879999997" green="0.43137254899999999" blue="0.08235294118" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </tabBar>
                     <connections>
                         <segue destination="Yai-zj-zve" kind="relationship" relationship="viewControllers" id="PIs-Rm-SyW"/>
@@ -483,16 +489,16 @@
         </scene>
     </scenes>
     <resources>
-        <image name="01" width="50" height="50"/>
-        <image name="02" width="50" height="50"/>
-        <image name="03" width="50" height="50"/>
-        <image name="04" width="50" height="50"/>
-        <image name="05" width="50" height="50"/>
-        <image name="1" width="30" height="30"/>
-        <image name="2" width="30" height="30"/>
-        <image name="3" width="30" height="30"/>
-        <image name="4" width="30" height="30"/>
-        <image name="5" width="30" height="30"/>
+        <image name="01" width="25" height="25"/>
+        <image name="02" width="25" height="25"/>
+        <image name="03" width="25" height="25"/>
+        <image name="04" width="25" height="25"/>
+        <image name="05" width="25" height="25"/>
+        <image name="1" width="25" height="25"/>
+        <image name="2" width="25" height="25"/>
+        <image name="3" width="25" height="25"/>
+        <image name="4" width="25" height="25"/>
+        <image name="5" width="25" height="25"/>
         <image name="apple-sign" width="256" height="256"/>
     </resources>
 </document>

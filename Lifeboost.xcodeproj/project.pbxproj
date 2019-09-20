@@ -141,6 +141,7 @@
 				en,
 				Base,
 				"zh-Hant",
+				ru,
 			);
 			mainGroup = 23CDB01C1FBFBE2300B08865;
 			productRefGroup = 23CDB0261FBFBE2300B08865 /* Products */;

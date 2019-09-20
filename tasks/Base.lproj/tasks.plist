@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>c</key>
+			<integer>2</integer>
+			<key>p</key>
+			<integer>5</integer>
+			<key>t</key>
+			<string>to buy: bread</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>2</integer>
+			<key>p</key>
+			<integer>2</integer>
+			<key>t</key>
+			<string>to buy: iPhone X</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>3</integer>
+			<key>p</key>
+			<integer>4</integer>
+			<key>t</key>
+			<string>Home:  Scour the pantry</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>4</integer>
+			<key>p</key>
+			<integer>1</integer>
+			<key>t</key>
+			<string>to read: The Great Gatsby</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>1</integer>
+			<key>p</key>
+			<integer>1</integer>
+			<key>t</key>
+			<string>to visit: Auto Show</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>2</integer>
+			<key>p</key>
+			<integer>1</integer>
+			<key>t</key>
+			<string>to buy: milk</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>3</integer>
+			<key>p</key>
+			<integer>4</integer>
+			<key>t</key>
+			<string> Home: Scour the fridg</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>3</integer>
+			<key>p</key>
+			<integer>3</integer>
+			<key>t</key>
+			<string>Home: Organise the spice cabinet in the kitchen</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>5</integer>
+			<key>p</key>
+			<integer>1</integer>
+			<key>t</key>
+			<string>to study: Xcode and Swift</string>
+		</dict>
+		<dict>
+			<key>c</key>
+			<integer>5</integer>
+			<key>p</key>
+			<integer>1</integer>
+			<key>t</key>
+			<string>Update my résumé</string>
+		</dict>
+	</array>
+</dict>
+</plist>
